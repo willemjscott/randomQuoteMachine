@@ -1,0 +1,46 @@
+#header-box {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color: white;
+    padding: 0px;
+}
+
+#header {
+    background-color: black;
+    padding: 10px;
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.box {
+    border-radius: 50px;
+}
+
+#quote-box {
+    background-color: black;
+    margin-top: 125px;
+    color: white;
+    padding: 35px;
+    margin-bottom: 125px;
+}
+
+.button {
+    background-color: grey;
+    border: grey;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+}
+
+p {
+    color: white;
+    font-family: Monospace;
+    font-size: 20px;
+}
